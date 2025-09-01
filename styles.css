@@ -12,3 +12,20 @@ header {
   font-size: 32x;
   color: rgb(42, 122, 228);
 }
+
+.chamada {
+  background: rgb(184, 156, 213);
+  pading-botom: 80px;
+  pading-top: 80px
+  display: flex;
+  justify-content: center;
+}
+
+.chamada-texto {
+  margin-right: 5x;
+}
+
+h1 {
+  font-size: 40px;
+}
+  
