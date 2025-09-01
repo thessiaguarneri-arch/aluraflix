@@ -29,3 +29,32 @@ h1 {
   font-size: 40px;
 }
   
+p {
+  font-size: 20px;
+}
+
+.categoria-videos {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
+
+.categoria {
+  pading-left: 20px;
+  pading-right: 20px;
+  margin-top: 50;
+}
+
+.categoria-videos img {
+  opacity: 0.5;
+  height: 20px;
+}
+
+.categoria-videos img:hover {
+  opacity: 1.0;
+  border: 3px solid green;
+}
+
+.categoria h2 {
+  color: rgb(42, 122, 228);
+}
